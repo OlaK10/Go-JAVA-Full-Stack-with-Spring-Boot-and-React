@@ -1,0 +1,31 @@
+/*
+button {
+  font-size: 50px;
+  background-color: green;
+  color: white;
+  padding: 30px, 30px;
+  width: 160px;
+}
+
+.counters,
+.count {
+  display: block;
+}
+
+.counters {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.count {
+  font-size: 50px;
+  padding: 15px, 30px;
+}
+
+.reset {
+  font-size: 50px;
+  background-color: rebeccapurple;
+  color: white;
+}
+*/
